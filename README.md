@@ -17,3 +17,7 @@ Demostrar el funcionamiento básico de una estructura de datos tipo árbol binar
 
    git clone https://github.com/Favio10/integrador-Programacion
    cd integrador-Programacion
+
+## Link de YouTube:
+
+https://youtu.be/yyOTlZcIb9Q
