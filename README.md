@@ -21,3 +21,7 @@ Demostrar el funcionamiento básico de una estructura de datos tipo árbol binar
 ## Link de YouTube:
 
 https://youtu.be/yyOTlZcIb9Q
+
+## Documento trabajo integrador online:
+
+https://drive.google.com/file/d/1h-TaoZ-MJCmLkJROPHUCblb1yziMsnN3/view?usp=sharing
